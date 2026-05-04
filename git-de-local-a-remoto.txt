@@ -1,1 +1,1 @@
-git desde local a remoto
+desde local a remoto
