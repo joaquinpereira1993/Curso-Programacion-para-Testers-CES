@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class ExpArimetricasMatematicas {
     public static void main(String[] args) {
-/*
+
         //1- Obtener el largo del rectangulo
         System.out.println("Ingrese el largo del rectangulo");
 
@@ -26,7 +26,7 @@ public class ExpArimetricasMatematicas {
        // 4- imprimir el resultado
         System.out.println("El area del rectangulo es: " + area);
 
- */     //Funciones con Variables
+      //Funciones con Variables
         int x, y;
         x = 3;
         int valor = x + 9;
@@ -53,5 +53,15 @@ public class ExpArimetricasMatematicas {
 
         int resto = 11 % 2;
         System.out.println("El resto es: " + resto);
+
+        double monto = 100.00;
+        monto + 1500.00 - 250
+
+
+
+
+
+
+
     }
 }
